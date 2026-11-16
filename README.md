@@ -1,4 +1,4 @@
-# 🪐 API Sistema Solar
+# API Sistema Solar
 
 API REST construida con **Node.js + Express** y desplegada en **Render**.
 Permite consultar, crear, actualizar y eliminar planetas del Sistema Solar, además de
