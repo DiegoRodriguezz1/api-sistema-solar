@@ -1,7 +1,7 @@
 {
   "name": "api-sistema-solar",
-  "version": "1.0.0",
-  "description": "API REST del Sistema Solar hecha con Express",
+  "version": "2.0.0",
+  "description": "API REST del Sistema Solar, estrellas y galaxias hecha con Express",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",

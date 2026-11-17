@@ -212,4 +212,7 @@ router.delete('/:id', (req, res) => {
   res.json({ ok: true, mensaje: `Planeta ${planeta.nombre} eliminado`, datos: planeta });
 });
 
+// Acceso de solo lectura a los planetas actuales (lo usa /api/escalas)
+router.obtener = () => planetas;
+
 module.exports = router;
